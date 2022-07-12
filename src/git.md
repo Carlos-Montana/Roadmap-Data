@@ -21,4 +21,4 @@ git restore nombre del mismo archivo (elimina los cambio por completo)<br>
 git branch (muestra la rama que estamos)<br>
 git checkout -b (nombre de la rama)<br>
 git marge nombre rama creada anteriormente(para que el marge se realice en la rama main tenemos que estar sobre ella y llamar a rama b para que unan)<br>
-[Volver](README.md)
+[Volver](../README.md)

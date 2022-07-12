@@ -141,4 +141,4 @@ UNION //sirve para unir dos o mas consultas diferentes.<br>
 select asterisco from curso.usuarios where nombre like 'P%'<br>
 
 select * from curso.usuarios group by apellido // <br>group by sirve para que no se repitan filas al momento de mostrar resultados<br>
-[Volver](README.md)
+[Volver](../README.md)
